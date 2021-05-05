@@ -12,6 +12,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/MatthewEvrard
@@ -48,7 +50,8 @@ education:
     - course: B.S., Psychology with a specialization in Biology
       institution: "State University of New York College at Buffalo "
       year: 2010
-email: ""
+email: evrard@gmail.com
 superuser: true
 highlight_name: false
 ---
+Yes
