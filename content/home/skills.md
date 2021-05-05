@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
+- description: Nikon Elements AR, Neurolucida 360, Autoquant X3
   icon: microscope
   icon_pack: fas
-  name: Nikon Elements AR
-- description: 100%
+  name: Brightfield and Confocal Micrscopy
+- description: Elevated Plus Maze, Open Field Task, Object-in-Place, Attention Set-Shifting
   icon: chart-line
   icon_pack: fas
-  name: Origin Pro/GraphPad Prism
-- description: 10%
+  name: Behavior
+- description: OriginPro, GraphPad Prism
   icon: fa-filter
   icon pack: fas
-  name: Immunohistochemistry
+  name: Statistical Analysis
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
