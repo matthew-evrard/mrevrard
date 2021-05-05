@@ -1,6 +1,6 @@
 ---
-title: "α4βδ GABAAreceptors trigger synaptic pruning during adolescence in layer
-  5 of the prelimbic medial prefrontal cortex. "
+title: "α4βδ GABAA receptors trigger synaptic pruning during adolescence in
+  layer 5 of the prelimbic medial prefrontal cortex. "
 abstract: The removal of excitatory synapses during puberty is an essential
   occurrence by which neural circuits are streamlined, thus permitting optimal
   function. The medial prefrontal cortex (mPFC) is one of the primary regions
@@ -43,7 +43,7 @@ date_end: 2018-11-06T18:15:00.000Z
 links: []
 event: Society for Neuroscience, Nanosymposium
 event_url: https://www.abstractsonline.com/pp8/#!/4649/presentation/2122
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
