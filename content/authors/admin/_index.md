@@ -1,7 +1,7 @@
 ---
 title: Matthew R. Evrard
 role: Ph.D. Candidate
-avatar_filename: 200.gif
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - GABAARs
