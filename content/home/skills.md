@@ -19,7 +19,7 @@ feature:
 - description: Nikon Elements AR, Neurolucida 360, Autoquant X3
   icon: microscope
   icon_pack: fas
-  name: Brightfield and Confocal Micrscopy
+  name: Microscopy
 - description: Elevated Plus Maze, Open Field Task, Object-in-Place, Attention Set-Shifting
   icon: chart-line
   icon_pack: fas
