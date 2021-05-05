@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: fa-microscope
+  icon: microscope
   icon_pack: fas
   name: Nikon Elements AR
 - description: 100%
