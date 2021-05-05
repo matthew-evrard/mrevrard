@@ -2,7 +2,8 @@
 title: Matthew R. Evrard
 role: Ph.D. Candidate
 avatar_filename: avatar.jpg
-bio: ""
+bio: "I am expected to graduate from SUNY Downstate Medical Center in the coming
+  months. I am hoping to "
 interests:
   - GABAARs
   - Synaptic Pruning
@@ -37,7 +38,7 @@ social:
 organizations:
   - name: Society for Neuroscience
     url: www.sfn.org
-  - name: Out in Science, Technology, Engineering, and Mathematics (oSTEM)
+  - name: Out in Science, Technology, Engineering, and Mathematics
     url: https://ostem.org/
 education:
   courses:
