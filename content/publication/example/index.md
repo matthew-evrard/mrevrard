@@ -23,7 +23,7 @@ authors:
   - BM Wilson
   - L Mickes
   - S Stolarz-Fantino
-  - RM Evrard
+  - "*MR Evrard*"
   - E Fantino
 author_notes: []
 publication: Psychological Science
